@@ -1,0 +1,369 @@
+
+/* font-family: 'Playfair Display', serif; */
+/* font-family: 'Ubuntu', sans-serif; */
+header{
+
+    width: 90%;
+    
+    /* background-color: gray; */
+    
+    margin: auto;
+    
+    overflow: hidden;
+    
+    }
+            
+            .logo{
+            
+            width: 20%;
+            
+            background-color: white;
+            
+            float: left;
+            }
+        .menu{
+              
+width: 60%;
+              
+float: right;
+              
+list-style: none;
+              
+margin: auto;
+            }
+        
+        .menu ul{
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        /* float: right; */
+        }
+        
+        
+        .menu ul li{
+        /* overflow: hidden; */
+        float: right;
+        /* background-color: red; */
+        margin-left: 41px;
+        }
+
+        .menu ul li a{        
+        float: right;        
+        margin-left: 67px;        
+        text-transform: uppercase;        
+        text-decoration: none;
+        }
+        
+        .banner{
+            width: 90%;
+            margin: auto;
+            margin-top: 55px;
+        }
+     .banner img{
+            width: 100%;
+        }
+        
+        .photodiry{        
+        width: 80%;            
+        margin: auto;            
+        padding: 50px 0px;            
+        }
+        
+    .photodiry h1{
+        font-family: 'Playfair Display', serif;
+        color: #626262;             
+        margin: 0px;
+        margin-bottom: 34px;
+        font-size: 35px;
+    }
+    .photodiry h5{
+        color: #c8c3b9;
+        text-transform: uppercase;
+        font-size: 16px;
+        margin: 0px;
+        padding: 25px 0px;
+        }
+.lifestyle{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    margin-top: 125px;
+}
+
+.iteam_one{
+width: 45%;
+float: left;
+}
+
+.iteam_one img{
+    width: 100%;
+}
+
+.iteam_one h5{
+    font-family: 'Ubuntu', sans-serif;
+    color: #c7c1b6;font-size: 
+    16px;margin: 25px 0px;
+    text-transform: uppercase;
+}
+
+.iteam_one h1{
+    font-family: 'Playfair Display', serif;
+    color: #626262;
+    font-size: 34px;
+    margin-bottom: 37PX;
+    /* margin: 0px; */
+}
+.iteam_one p{
+    font-family: 'Playfair Display', serif; 
+    margin: 0px;
+    color: #626262;
+    font-size: 18px;
+}
+
+.iteam_two{
+width: 45%;
+float: right;
+}
+
+.iteam_two img{
+    width: 100%;
+}
+
+.iteam_two h5{    
+    font-family: 'Ubuntu', sans-serif;
+    color: #c7c1b6;
+    font-size: 
+    16px;margin: 25px 0px;
+    text-transform: uppercase;
+}
+
+.iteam_two h1{
+    font-family: 'Playfair Display', serif;    
+    color: #626262;    
+    font-size: 34px;    
+    margin-bottom: 37PX;
+}
+
+.iteam_two p{
+    font-family: 'Playfair Display', serif; 
+    margin: 0px;
+    color: #626262;
+    font-size: 18px;
+}
+.photodiary_one{
+    overflow: hidden;
+    width: 80%;
+    margin: auto;
+    margin-top: 125px;
+}
+.iteam_three{    
+width: 45%;    
+float: left;
+}
+
+.iteam_three img{    
+width: 100%;
+}
+.iteam_three h5{
+    
+    font-family: 'Ubuntu', sans-serif;
+    color: #c7c1b6;
+    font-size: 
+    16px;margin: 25px 0px;
+    text-transform: uppercase;
+}
+.iteam_three h1{
+    font-family: 'Playfair Display', serif;    
+    font-size: 37px;    
+    margin-bottom: 40px;    
+    color: #626262;
+}
+.iteam_three p{   
+    font-family: 'Playfair Display', serif;  
+    margin: 0px;    
+    color: #626262;    
+    font-size: 18px;
+}
+.iteam_four{    
+    float: right;    
+    width: 45%;
+}
+.iteam_four img{
+    
+    width: 100%;
+}
+.iteam_four h5{
+    
+    font-family: 'Ubuntu', sans-serif;
+    color: #c7c1b6;
+    font-size: 
+    16px;margin: 25px 0px;
+    text-transform: uppercase;
+}
+.iteam_four h1{
+    font-family: 'Playfair Display', serif;    
+    font-size: 37px;    
+    margin-bottom: 40px;    
+    color: #626262;
+}
+.iteam_four p{
+    font-family: 'Playfair Display', serif;     
+    margin: 0px;    
+    color: #626262;    
+    font-size: 18px;
+}
+.login{
+    margin: 100px 0px;
+    background-color: #f0f0f0;
+    width: 100%;height: 300px;
+}
+.sign_up{
+width: 25%;
+margin: auto;
+padding: 100px 0px;
+}
+
+.sign_up h1{
+    font-family: 'Playfair Display', serif;
+    font-size: 25px;
+    margin: 0px;
+    margin-bottom: 34px;
+    text-transform: capitalize;
+}
+.sign_up input{
+    
+    background: transparent;        
+    border: none;        
+    width: 100%;        
+    border-bottom: 1px solid black;
+}
+.lifestyle_two{
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+    }
+.iteam_five{
+
+    width: 45%;
+    float: left;
+}
+
+.iteam_five img{
+    width: 100%;
+}
+.iteam_five h5{
+    color: #c8c3b9;
+    font-family: 'Ubuntu', sans-serif;
+    color: #c7c1b6;
+    font-size: 
+    16px;margin: 25px 0px;
+    text-transform: uppercase;
+    padding: 25px 0px;
+}
+
+.iteam_five h1{
+    font-family: 'Playfair Display', serif;
+    color: #626262;
+    margin: 0px;
+    margin-bottom: 34px;
+}
+.iteam_five p{
+    font-family: 'Playfair Display', serif; 
+    margin: 0px;
+    color: #626262;
+    font-size: 18px;
+}
+
+.iteam_six{
+    width: 45%;
+    float: right;
+}
+
+.iteam_six img{
+    width: 100%;
+}
+
+.iteam_six h5{
+    color: #c8c3b9;
+    font-family: 'Ubuntu', sans-serif;
+    color: #c7c1b6;
+    font-size: 
+    16px;margin: 25px 0px;
+    text-transform: uppercase;
+    padding: 25px 0px;
+}
+.iteam_six h1{
+    color: #626262;
+    margin: 0px;
+    margin-bottom: 34px;
+}
+.iteam_six p{    
+    font-family: 'Playfair Display', serif; 
+    margin: 0px;    
+    color: #626262;    
+    font-size: 18px;
+}
+.loadmore{
+    text-align: center;
+    padding: 100px;
+}
+.loadmore button{   
+    font-family: 'Playfair Display', serif; 
+    padding: 19px;        
+    font-size: 18px;
+}
+footer{
+background-color: #f0f0f0;
+font-family: 'Playfair Display', serif;
+margin: 0px;
+padding: 20px;
+height: 70px;
+}
+
+.footer_contant{
+width: 100%;
+background-color: #f0f0f0;
+overflow: hidden;
+}
+
+.terms{
+float: left;
+}
+
+.terms ul{
+overflow: hidden;
+}
+
+.terms ul li{
+text-decoration: none;
+float: left;
+margin: 23px;
+list-style: none;
+font-size: 16px;
+}
+
+.terms ul li a{
+text-decoration: none;
+color: #000000;
+}
+
+.follow{
+float: right;
+}
+
+.follow ul{
+list-style: none;
+}
+
+.follow ul li{
+float: left;
+text-decoration: none;
+margin: 25px;
+font-size: 15px;
+}
+
+.follow ul li a {
+color: #202020;
+text-decoration: none;
+text-transform: capitalize;
+}
